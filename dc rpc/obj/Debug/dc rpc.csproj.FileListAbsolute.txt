@@ -1,0 +1,17 @@
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\bin\Debug\dc rpc.exe.config
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\bin\Debug\dc rpc.exe
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\bin\Debug\dc rpc.pdb
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\bin\Debug\DiscordRPC.dll
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\bin\Debug\DiscordRPC.pdb
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\bin\Debug\DiscordRPC.xml
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\obj\Debug\dc rpc.csproj.AssemblyReference.cache
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\obj\Debug\dc rpc.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\obj\Debug\dc_rpc.Form1.resources
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\obj\Debug\dc_rpc.Properties.Resources.resources
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\obj\Debug\dc rpc.csproj.GenerateResource.cache
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\obj\Debug\dc rpc.csproj.CoreCompileInputs.cache
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\obj\Debug\dc rpc.csproj.CopyComplete
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\obj\Debug\dc rpc.exe
+C:\Users\kaio1\source\repos\dc rpc\dc rpc\obj\Debug\dc rpc.pdb
